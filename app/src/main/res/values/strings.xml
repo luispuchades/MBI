@@ -1,0 +1,33 @@
+<resources>
+
+    //XML Strings
+    <string name="app_name">MBI</string>
+    <string name="MBI_Ltd">MBI Ltd</string>
+    <string name="Mobile_Business_Integration">Mobile Business Integration</string>
+    <string name="MBI_core_business">MBI is a company specialized in supporting our partners to smoothly integrate their business into the mobile world. The Natural Way.
+</string>
+    <string name="The_natural_way">The Natural Way</string>
+    <string name="tell_me_more">Tell me more about The Natural Way</string>
+
+    //JAVA Strings
+    <string name="MBI_Ltd2">MBI Ltd.</string>
+
+    //Toast Call Message
+    <string name="phone_number">Phone number:</string>
+    <string name="number">+34 699 555 555</string>
+    <string name="callText1">Working to link this button to a direct call.</string>
+    <string name="callText2">Sorry for the inconveniences.</string>
+
+    //Toast Home Message
+    <string name="mailing_address">Mailing address:</string>
+    <string name="mailing_address1">1414 Android Studio St.</string>
+    <string name="mailing_address2">28000 Madrid</string>
+    <string name="mailing_address3">SPAIN</string>
+
+    //Tell Me More Message
+    <string name="tellMeMore1">Mobile Business Integration is a fictional company that provides services to successful veteran companies that want to jump to the technological side.</string>
+    <string name="tellMeMore2">The natural way philosophy assures that the strategic business remains and the innovation advance within the company structure.</string>
+    <string name="tellMeMore3">Services to keep companies on the trac.k</string>
+    <string name="tellMeMore4">The natural way to mobile integration.</string>
+
+</resources>
